@@ -22,7 +22,7 @@ function Tabdisplay(props) {
    return (
        <div style={{'overflow-x':'auto'}} className="container">
            <div className="row">
-               <div className="col-4 left-table">
+               <div className="col-3 left-table">
                    <div className="border shadow-sm">
                        <img src={destination} width="35" height="35" className="rounded-circle img-back" alt="img-background" loading="lazy"/>
                       
@@ -40,9 +40,8 @@ function Tabdisplay(props) {
                </div>
                <div  className="col-8">
                <div className="table-wrapper-scroll-y my-custom-scrollbar border">
- 
                    <table className="table">
-                       <tr className="table-head ">
+                       <tr className="m-2 table-head">
                            <td>AWB NUMBER  </td>
                            <td>TRANSPORTER</td>
                            <td>SOURCE</td>
