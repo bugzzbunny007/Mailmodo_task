@@ -1,4 +1,4 @@
-#Description:-
+# Description:-
 The website is Developed on React.js (Front-end) and we use axios middleware to fetch the data from API endpoint.To make the Website reponsive we used bootstrap4.The website is live and currently deployed on Heroku at https://mailmodoharsh.herokuapp.com/ .
 # Getting Started with Create React App
 
@@ -70,3 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![Image of Project](https://github.com/bugzzbunny007/Mailmodo_task/blob/master/project1ss.png)
+![Image of Project](https://github.com/bugzzbunny007/Mailmodo_task/blob/master/projectss.png)
+
