@@ -358,7 +358,7 @@
   margin-top: 10px;
   margin-left: 50px;
   margin-bottom: 10px;
-  color: rgb(124, 231, 142);
+  color: rgb(127, 238, 145);
 }
 
 .delivery-one {
@@ -372,7 +372,7 @@
   z-index: -1;
   top: 10px;
   bottom: 0;
-  border-left: 2px dashed black;
+  border-left: 2px dashed blue;
 }
 
 .hr-line {
@@ -453,4 +453,7 @@
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #f8f8f8; 
+}
+.trans{
+  transform: rotate(20deg);
 }

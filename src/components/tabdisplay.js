@@ -7,6 +7,7 @@ import arrow from '../assets/img/arrow.svg';
  
 import Delivery from './delivery';
  
+
 function Tabdisplay(props) {
  
    const apiData = props.data.shipments;
@@ -42,7 +43,8 @@ function Tabdisplay(props) {
                <div className="table-wrapper-scroll-y my-custom-scrollbar border">
                    <table className="table">
                        <tr className="m-2 table-head">
-                           <td>AWB NUMBER  </td>
+                           <tr className="m-2 table-head">
+                           <td>AWB NUMBER <i className="arrow-small down"></i> </td></tr> 
                            <td>TRANSPORTER</td>
                            <td>SOURCE</td>
                            <td>DESTINATION</td>
